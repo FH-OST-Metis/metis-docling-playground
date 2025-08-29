@@ -1,0 +1,17 @@
+kaggle
+pandas
+pyarrow
+tqdm
+requests
+numpy
+matplotlib
+torch
+ipykernel
+ipywidgets
+jupyter
+docling
+llama-index
+llama-index-embeddings-huggingface
+llama-index-vector-stores-faiss
+faiss-cpu
+build
